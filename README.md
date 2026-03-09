@@ -58,6 +58,11 @@ A inteligência artificial foi utilizada como **ferramenta de apoio ao estudo**,
 Durante o processo, as respostas da IA foram **comparadas com as fontes originais**, promovendo **pensamento crítico e análise das informações**.
 
 ---
+## Uso do NotebookLM
+
+O NotebookLM foi utilizado para analisar fontes abertas sobre educação financeira e gerar resumos baseados no conteúdo.
+
+![NotebookLM](usoNOT.png)
 
 ## 📚 Fontes Utilizadas
 
