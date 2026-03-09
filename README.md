@@ -27,3 +27,64 @@ O projeto demonstra como a inteligência artificial pode ser utilizada de forma 
 ---
 
 ## 📂 Estrutura do Projeto
+
+projeto
+├── resumos/
+├── perguntas-de-estudo/
+├── prompts-utilizados/
+├── glossario/
+└── referencias/
+
+
+### Conteúdos incluídos
+
+- 📖 **Resumos estruturados** dos conteúdos estudados  
+- 🧠 **Perguntas estratégicas** para aprofundar o aprendizado  
+- 💬 **Prompts utilizados com IA**  
+- 📚 **Referências das fontes utilizadas**  
+- 📝 **Glossário de conceitos financeiros**
+
+---
+
+## 🤖 Uso da IA Generativa
+
+A inteligência artificial foi utilizada como **ferramenta de apoio ao estudo**, ajudando em tarefas como:
+
+- síntese de conteúdos  
+- explicação de conceitos financeiros  
+- geração de perguntas para revisão  
+- organização das informações  
+
+Durante o processo, as respostas da IA foram **comparadas com as fontes originais**, promovendo **pensamento crítico e análise das informações**.
+
+---
+
+## 📚 Fontes Utilizadas
+
+Foram utilizadas **fontes abertas e confiáveis**, incluindo materiais educacionais e conteúdos introdutórios sobre **educação financeira**.
+
+---
+
+## 📌 Resultado Final
+
+O resultado deste projeto é um **miniguia de estudo estruturado**, que pode ser utilizado para:
+
+- revisões futuras  
+- apoio ao aprendizado de educação financeira  
+- demonstração prática do uso de **IA Generativa no processo de estudo**
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- NotebookLM  
+- IA Generativa  
+- GitHub  
+- Markdown  
+
+---
+
+## 👩‍💻 Autora
+
+**Mariana Gomes**  
+Estudante de **Análise e Desenvolvimento de Sistemas**
